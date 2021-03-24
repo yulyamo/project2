@@ -162,6 +162,9 @@ footer{
 	background: #FDF9F0;
 	overflow: hidden;
 }
+#content-wrapper3{
+  background-color: #f9f9f9;
+}
 #personal-growth{
 	float: left;
 	width: 40%;
